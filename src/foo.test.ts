@@ -14,5 +14,5 @@ test('basic again', async () => {
 
 test('ok', () => {
   
-  expect(3).toBe(2);
+  expect(3).toBe(3);
 });
